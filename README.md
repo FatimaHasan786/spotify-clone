@@ -22,3 +22,19 @@ Profile includes details like username, profile picture, and account settings.
 The UI is designed to be responsive, providing a seamless experience across various devices and screen sizes.
 Technologies Used
 Frontend: Flutter and dart
+
+License
+This project is licensed under the MIT License.
+
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. Make sure to follow the existing code style and guidelines. For major changes, please open an issue first to discuss the proposed changes.
+
+Acknowledgements
+Special thanks to Spotify for providing access to their API for educational purposes, which enabled the development of this application.
+
+Contact
+If you have any questions or suggestions regarding this project, feel free to contact the maintainers:
+
+Maintainer Name
+Maintainer Name
+You can also open an issue in this repository for any inquiries or support requests.
